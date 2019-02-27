@@ -1,11 +1,10 @@
-Robert Grindlewalker. We all knew him as Bobby. Bobby was the best
-Physic's teacher that Springville High School ever had. We all often wondered
-why someone of his intellectual ability was a teaching AP Physics and not 
-working towards making a new discovery in the field of Quantum Mechanics.
-It was not until his 50th birthday, when he announced that he would retire at
-the end of the academic year, did we learn why. 
+Robert Grindlewalker. We all knew him as Bobby. Bobby was the best Physic's teacher that Springville High School ever had. We all often wondered
+why someone of his intellectual ability was a teaching AP Physics and not working towards making a new discovery in the field of Quantum Mechanics.
+It was not until his 50th birthday, when he announced that he would retire at the end of the academic year, did we learn why. 
 
-He told us a wild story of his very first, and incidentally, very last research experience. He was working toward making an incredible new discovery at a prestigious and top secret government laboratory. After only 2 months of working there, however, a horrible accident occured, leaving him banned from research labs accross the country.
+He told us a wild story of his very first, and incidentally, very last research experience. He was working toward making an incredible new discovery 
+at a prestigious and top secret government laboratory. After only 2 months of working there, however, a horrible accident occured, leaving him banned 
+from research labs accross the country.
 
 "It involved a rare new chemical I found- Destructinium. It's properties allow a microgram of it to create enough energy to destroy multiple buildings. And I,I..."
 
@@ -14,3 +13,9 @@ I shuddered, waiting for his next words, knowing they would be mortifying.
 "I was the one in charge of putting labels on the containers. It was a Friday and I was trying to head out early so I accidentally
 mixed up the stickers for 'Harmlessite' and 'Destructinium' and left." His eyes were wide as he stared off into space. "I didn't even find
 out until I turned on the news the next day. There were no survivors. Also I was fired."  
+
+We were shocked. To think that the harmless old Bobby had caused such a catastrophe. The auditorium was silent. "I spent the last 20 years, working at this school
+just to pay the bills. But every moment I spent at home, I was working on restructuring and reconnecting phasiod particles in a quantum realm. After all these years,
+I have managed to successfully restructure them. I will not see you kids for a while, and when you do see me, I may look like an 80 year old man. It is a way for me
+to fix my mistakes. I hope that one day you kids find me working in a research lab again." We were all very confused at these statements, but it was not until his 
+last line did we realize what he was talking about. "Springville High, it's time to say goodbye. My time machine is waiting for me."
